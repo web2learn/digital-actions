@@ -11351,8 +11351,8 @@ header.masthead2 {
   padding-top: 14.5rem;
   padding-bottom: 8.5rem;
   text-align: center;
-  color: #fff;
-  background-image: url("../assets/4%20added%2007_06.webp");
+  color: #111111;
+  background-image: url("../assets/assessing.jpeg");
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
@@ -11363,7 +11363,7 @@ header.masthead3 {
   padding-bottom: 8.5rem;
   text-align: center;
   color: #fff;
-  background-image: url("../assets/1%20added%2007_06.webp");
+  background-image: url("../assets/understanding.jpg");
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
@@ -11371,6 +11371,17 @@ header.masthead3 {
 }
 
 header.masthead4 {
+  padding-top: 14.5rem;
+  padding-bottom: 8.5rem;
+  text-align: center;
+  color: #fff;
+  background-image: url("../assets/cooperation.jpg");
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-position: center center;
+  background-size: cover;
+}
+header.masthead5 {
   padding-top: 14.5rem;
   padding-bottom: 8.5rem;
   text-align: center;
